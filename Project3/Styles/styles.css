@@ -1,0 +1,28 @@
+.container{
+    margin-left: 20%;
+    margin-right: 20%;
+    /* padding:2%; */
+    background-color: #008080;
+}
+.navbar li{
+    display: inline-block;
+    margin: 5%;
+}
+.navbar{
+    background-color: green;
+}
+a{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+p{
+    text-align: justify;
+}
+.footer{
+    background-color: green;
+    color: white;
+    padding: 2%;
+}
+
+
