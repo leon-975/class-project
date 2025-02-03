@@ -1,0 +1,20 @@
+h1{
+    font-size: 50px;
+}
+/*p{
+    font-size: 30px;
+    color: red;
+}*/
+p.p1{
+    color: blue;
+    /*display: none;*/
+    /* display: block; */
+    display: inline-block;
+}
+span{
+    background-color: blue;
+    color: white;
+    display: inline;
+    height: 100px;
+    width: 50px;
+}
